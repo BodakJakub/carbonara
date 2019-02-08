@@ -39,7 +39,7 @@ class Reader implements IReader {
 
 const configObj: any = new Config('../test_json/config.json');
 const configPath: string = configObj.getConfig(configObj.config);
-console.log('xxx', configPath)
+console.log('yxxx', configPath)
 
 const reader = new Reader(path.relative(__filename, 'D:\Code\carbonara\test_html'));
   
