@@ -1,0 +1,17 @@
+{
+  "name": "carbonara",
+  "version": "1.0.0",
+  "description": "Hopefully simple module for inserting HTML snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "snippets"
+  ],
+  "author": "Jakub Bodak",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
